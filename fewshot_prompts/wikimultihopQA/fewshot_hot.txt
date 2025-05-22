@@ -1,0 +1,23 @@
+Question: When did the <fact1>director</fact1> of <fact2>film Hypocrite (Film)</fact2> die?
+Answer: The <fact1>director</fact1> of the <fact2>film Hypocrite (Film)</fact2> is Miguel Morayta, who passed away on 19 June 2013. The answer is {19 June 2013}.
+
+Question: Are both <fact1>Kurram Garhi</fact1> and <fact2>Trojkrsti</fact2> located in the same country?
+Answer: <fact1>Kurram Garhi</fact1> is located in Pakistan, while <fact2>Trojkrsti</fact2> is in the Republic of Macedonia. The answer is {no}.
+
+Question: Do the <fact1>director of film Coolie No. 1 (1995 Film)</fact1> and the <fact2>director of film The Sensational Trial</fact2> have the same <fact3>nationality</fact3>?
+Answer: The <fact1>director of the film Coolie No. 1 (1995 Film)</fact1> is David Dhawan, whose <fact3>nationality</fact3> is India. Meanwhile, the <fact2>director of the film The Sensational Trial</fact2> was Karl Freund, who held <fact3>nationality</fact3> in Germany. The answer is {no}.
+
+Question: Who is <fact1>Boraqchin</fact1> (Wife Of <fact2>Ögedei</fact2>)'s <fact3>father-in-law</fact3>?
+Answer: The spouse of <fact1>Boraqchin</fact1> is <fact2>Ögedei Khan</fact2>, whose <fact3>father</fact3> is Genghis Khan. The answer is {Genghis Khan}.
+
+Question: Who was born first out of <fact1>Martin Hodge</fact1> and <fact2>Ivania Martinich</fact2>?
+Answer: The birthdate of <fact1>Martin Hodge</fact1> is 4 February 1959, while <fact2>Ivania Martinich</fact2> was born on 25 July 1995. The answer is {<fact1>Martin Hodge</fact1>}.
+
+Question: When did the <fact1>director</fact1> of <fact2>film Laughter In Hell</fact2> die?
+Answer: The <fact1>director</fact1> of the <fact2>film Laughter In Hell</fact2> is Edward L. Cahn, who died on August 25, 1963. The answer is {August 25, 1963}.
+
+Question: Which film has the director died later, <fact1>The Gal Who Took the West</fact1> or <fact2>Twenty Plus Two</fact2>?
+Answer: The director of the film <fact2>Twenty Plus Two</fact2> is Joseph M. Newman, who died on January 23, 2006. Meanwhile, the film <fact1>The Gal Who Took the West</fact1> was directed by Frederick de Cordova, who passed away on September 15, 2001. The answer is {<fact2>Twenty Plus Two</fact2>}.
+
+Question: Who is the <fact1>grandchild</fact1> of <fact2>Krishna Shah</fact2> (<fact3>Nepalese Royal</fact3>)?
+Answer: The child of <fact2>Krishna Shah</fact2>, who is <fact3>Nepalese Royalty</fact3> is Rudra Shah, whose child is Prithvipati Shah. Therefore, the <fact1>grandchild</fact1> of <fact2>Krishna Shah</fact2> is Prithvipati Shah. The answer is {Prithvipati Shah}.
