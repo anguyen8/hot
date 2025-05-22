@@ -7,7 +7,7 @@ by [Tin Nguyen](https://ngthanhtin.github.io/), [Logan Bolton](), [Mohammad R. T
 [![arXiv](https://img.shields.io/badge/arXiv-2407.06581-b31b1b.svg)](https://arxiv.org/abs/2503.02003)
 [![Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-red)](https://huggingface.co/datasets/groundingauburn/HoT)
 [![Model](https://img.shields.io/badge/🥰%20Trained-Model-Model%20Model)](https://huggingface.co/groundingauburn/HoT_QWen2.5-1.5B)
-[![Training Code](https://img.shields.io/badge/Training-Code-Code)](https://github.com/ngthanhtin/HoT_training)
+[![Training Code](https://img.shields.io/badge/Training-Code-Code)](https://github.com/)
 </div> 
 
 <i>
